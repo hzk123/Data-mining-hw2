@@ -1,10 +1,10 @@
-#Dataset
+# Dataset
 Dataset is in the code 
 
-#code 
+# code 
 have two code, one is continues number , and another is for discrete number
 
-#running environmnet
+# running environmnet
 Jupyter 
 nltk
 Graphviz2.38
